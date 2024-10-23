@@ -4,3 +4,4 @@ export const appConfig = () => ({
     host: process.env.APP_HOST,
   },
 });
+ 
