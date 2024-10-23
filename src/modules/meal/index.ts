@@ -1,0 +1,6 @@
+export * from './dtos'
+export * from './interfaces'
+export * from './meal.controller'
+export * from './models'
+export * from './meal.service'
+export * from './meal.module'
